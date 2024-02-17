@@ -87,7 +87,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```bash
-  git clone https://github.com/ClarenceAtim/hello-rails-back-end/
+  git clone https://github.com/mahdinoori2000/rails_backend.git
 ```
 
 You need to setup database for these project
