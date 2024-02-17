@@ -1,7 +1,5 @@
 class GreetingsController < ApplicationController
-  def index
-    @greeting = Greeting.all.sample
-
-    render json: @greeting, serializer: GreetingSerializer
+  def random
+    render json: { greeting: Message.order('RANDOM()').first.content }
   end
 end
