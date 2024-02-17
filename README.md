@@ -61,7 +61,7 @@
 
 ## 🚀 Link To React App <a name="live-demo"></a>
 
-- [Link to React App](https://github.com/ClarenceAtim/hello-react-front-end/tree/feat/frontend)
+- [Link to React App](https://github.com/mahdinoori2000/rails_backend/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
